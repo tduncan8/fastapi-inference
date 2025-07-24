@@ -1,0 +1,9 @@
+fastapi
+transformers
+torch
+datasets
+tokenizers
+requests
+uvicorn
+pydantic
+
